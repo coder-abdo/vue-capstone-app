@@ -1,15 +1,18 @@
 # vue-capstone-app
 
-This template should help get you started developing with Vue 3 in Vite.
+This a simple project for training on `vue`, `vuex`, `vue-router` and how to handle `async` data and display them on `routes` using `vuex` and `vue-router`.
 
-## Recommended IDE Setup
+## Techs I used in this project:
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
+1. Vue V3.
+2. Vuex.
+3. Vue-Router. 
+4. TailwindCSS.
 
-## Customize configuration
-
-See [Vite Configuration Reference](https://vitejs.dev/config/).
-
+## Techs I will Focus On:
+1. Pinia.
+2. Typescript.
+3. Large Projects.
 ## Project Setup
 
 ```sh
